@@ -4,7 +4,8 @@ title: FAQ
 ---
 
 <h1>Frequently Asked Questions</h1>
-<p>Can't find your answer here? Ask on <strong>Mattermost #general</strong> or check <strong>Canvas announcements</strong>.</p>
+<!-- <p>Can't find your answer here? Ask on <strong>Mattermost #general</strong> or check <strong>Canvas announcements</strong>.</p> -->
+<p>Can't find your answer here? Check the Mattermost class channel.</p>
 
 <div class="faq-category">Programme & Schedule</div>
 
