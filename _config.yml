@@ -1,0 +1,19 @@
+title: "Data Science Programme"
+description: "Moringa School — Part-Time Data Science Bootcamp"
+baseurl: ""
+url: "https://ds-moringa-datanerds.github.io"
+
+markdown: kramdown
+permalink: pretty
+
+nav:
+  - title: Home
+    url: /
+  - title: Schedule
+    url: /schedule/
+  - title: Resources
+    url: /resources/
+  - title: FAQ
+    url: /faq/
+  - title: Project
+    url: /project/

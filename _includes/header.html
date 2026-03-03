@@ -1,0 +1,19 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="{{ '/' | relative_url }}" class="site-logo">
+      <span class="logo-icon">🧪</span>
+      <div>
+        <span class="logo-title">DataNerds</span>
+        <span class="logo-sub">Moringa School</span>
+      </div>
+    </a>
+    <button class="mobile-nav-toggle" aria-label="Toggle navigation" onclick="document.querySelector('.site-nav').classList.toggle('open')">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav">
+      {% for item in site.nav %}
+        <a href="{{ item.url | relative_url }}" class="nav-link {% if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
