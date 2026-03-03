@@ -3,144 +3,234 @@ layout: default
 title: Schedule
 ---
 
-<h1>📅 Course Schedule</h1>
-<p>The programme runs over 37 weeks (Part-Time) across 6 modules. Each module builds on the previous one, progressively developing your skills from Python basics to advanced machine learning.</p>
+<h1>Course Schedule</h1>
+<p>The programme runs over 37 weeks across 6 modules. Each module builds on the previous one. Detailed topics are added as we progress — check Canvas for the most current assignment due dates.</p>
 
 <div class="callout callout-info">
-  <span class="callout-icon">📌</span>
-  <div>Detailed week-by-week topics, readings, and deliverables will be updated as we progress through each module. Check Canvas for the most up-to-date assignments and due dates.</div>
+  All sessions are held via Google Meet. Join using the calendar invite sent to your email.
 </div>
 
-<div class="module-card current">
-  <div class="module-header">
-    <div class="module-number">1</div>
+<!-- MODULE 1 -->
+<div class="module-section">
+  <div class="module-section-header">
+    <div class="module-number-badge">1</div>
     <div>
-      <div class="module-title">Introduction to Python</div>
-      <div class="module-meta"><span class="badge badge-current">Current</span> · Focus: Python, Data analysis with programming</div>
+      <h2>Introduction to Python</h2>
+      <p class="module-focus">Focus: Python, Data analysis with programming</p>
     </div>
   </div>
-  <p>Build essential Python skills applicable to data science — from scripting basics through data structures, functions, and libraries.</p>
-  <div class="module-topics">
-    <ul>
-      <li>Introduction to Programming & SDLC</li>
-      <li>Algorithms & Pseudocode</li>
-      <li>Python Commands & Variables</li>
-      <li>Operators & Control Flow Statements</li>
-      <li>While Loops</li>
-      <li>For Loops & Functions</li>
-      <li>Tuples & Lists</li>
-      <li>Dictionaries, Strings & File Handling</li>
-      <li>Libraries, Modules & Packages</li>
-    </ul>
-  </div>
-  <p style="margin-top: 12px; font-size: 14px; color: var(--text-light);"><strong>Summative:</strong> Analyze a News Article (Lab, 100 pts) + Summative Quiz (100 pts)</p>
+
+  <table class="schedule-table">
+    <thead>
+      <tr>
+        <th>Lesson</th>
+        <th>Topic</th>
+        <th>Materials</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>
+          <span class="topic-link">Introduction to Programming</span><br>
+          <small>History of computing, what is programming, compiled vs interpreted languages</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>
+          <span class="topic-link">Software Development Life Cycle</span><br>
+          <small>SDLC phases, development process, IDE setup and debugging</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>
+          <span class="topic-link">Algorithms & Pseudocode</span><br>
+          <small>What are algorithms, pseudocode, flowcharts, problem decomposition</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>
+          <span class="topic-link">Python Commands & Variables</span><br>
+          <small>Defining commands, variables, data types, basic operations</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>
+          <span class="topic-link">Operators & Control Flow</span><br>
+          <small>Arithmetic, comparison, logical operators, if/else statements</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>
+          <span class="topic-link">While Loops</span><br>
+          <small>Loop structure, conditions, counters, practical applications</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>
+          <span class="topic-link">For Loops & Functions</span><br>
+          <small>Iteration, range, nested loops, defining and calling functions</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>
+          <span class="topic-link">Tuples & Lists</span><br>
+          <small>Creating, accessing, modifying sequences, list methods, tuple immutability</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>
+          <span class="topic-link">Dictionaries, Strings & File Handling</span><br>
+          <small>Key-value pairs, string methods, reading/writing files, logging</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>
+          <span class="topic-link">Libraries, Modules & Packages</span><br>
+          <small>Importing libraries, functions vs modules vs packages, pip</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Slides</a>
+            <a href="#">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>
+          <strong>Summative Assessment: Analyze a News Article</strong><br>
+          <small>Apply Python skills to analyze data in a file (Lab: 100 pts, Quiz: 100 pts)</small>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="#">Brief</a>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-<div class="module-card">
-  <div class="module-header">
-    <div class="module-number">2</div>
+<!-- MODULE 2 -->
+<div class="module-section">
+  <div class="module-section-header">
+    <div class="module-number-badge">2</div>
     <div>
-      <div class="module-title">Data Science Essentials</div>
-      <div class="module-meta"><span class="badge badge-upcoming">Upcoming</span> · Focus: Python, SQL, Statistical measures, Visualization</div>
+      <h2>Data Science Essentials</h2>
+      <p class="module-focus">Focus: Python, SQL, Statistical measures, Visualization</p>
     </div>
   </div>
-  <p>Dive into data analysis and visualization with Python, learn SQL, and master statistical measures for deriving insights from data.</p>
-  <div class="module-topics">
-    <ul>
-      <li>Intro to Data Science & Statistical Measures</li>
-      <li>Data Analysis with Pandas</li>
-      <li>Data Visualization (Seaborn & Matplotlib)</li>
-      <li>Object-Oriented Programming (OOP)</li>
-      <li>Introduction to SQL</li>
-      <li>Database Connections & Queries</li>
-      <li>Filtering, Ordering & Grouping</li>
-      <li>Table Relations, Joins & Subqueries</li>
-    </ul>
-  </div>
+  <div class="coming-soon-card">Content will be published as we approach this module.</div>
 </div>
 
-<div class="module-card">
-  <div class="module-header">
-    <div class="module-number">3</div>
+<!-- MODULE 3 -->
+<div class="module-section">
+  <div class="module-section-header">
+    <div class="module-number-badge">3</div>
     <div>
-      <div class="module-title">Foundations — Cloud, Stats & Regression</div>
-      <div class="module-meta"><span class="badge badge-upcoming">Upcoming</span> · Focus: PySpark, SQL, Statistics, Regression</div>
+      <h2>Foundations — Cloud, Stats & Regression</h2>
+      <p class="module-focus">Focus: PySpark, SQL, Inferential statistics, Regression</p>
     </div>
   </div>
-  <p>Master cloud computing, big data processing with PySpark, inferential statistics, and build your first regression models.</p>
-  <div class="module-topics">
-    <ul>
-      <li>Cloud Computing & PySpark</li>
-      <li>Big Data Processing (NumPy, Pandas, PySpark)</li>
-      <li>Generative AI & Dashboards</li>
-      <li>Probability Distributions & Confidence Intervals</li>
-      <li>Hypothesis Testing</li>
-      <li>Linear & Multiple Regression</li>
-      <li>Regularization (Lasso & Ridge)</li>
-      <li>Bias-Variance Tradeoff</li>
-    </ul>
-  </div>
+  <div class="coming-soon-card">Content will be published as we approach this module.</div>
 </div>
 
-<div class="module-card">
-  <div class="module-header">
-    <div class="module-number">4</div>
+<!-- MODULE 4 -->
+<div class="module-section">
+  <div class="module-section-header">
+    <div class="module-number-badge">4</div>
     <div>
-      <div class="module-title">Machine Learning</div>
-      <div class="module-meta"><span class="badge badge-upcoming">Upcoming</span> · Focus: Supervised & Unsupervised ML, Scikit-Learn</div>
+      <h2>Machine Learning</h2>
+      <p class="module-focus">Focus: Supervised & Unsupervised ML, Scikit-Learn</p>
     </div>
   </div>
-  <p>Learn the fundamentals of machine learning — from logistic regression and decision trees through clustering and dimensionality reduction.</p>
-  <div class="module-topics">
-    <ul>
-      <li>AI & Machine Learning Fundamentals</li>
-      <li>Logistic Regression & Decision Trees</li>
-      <li>Support Vector Machines</li>
-      <li>Model Evaluation & ROC/AUC</li>
-      <li>k-Nearest Neighbors</li>
-      <li>Recommender Systems & SVD</li>
-      <li>k-Means Clustering</li>
-      <li>PCA & Dimensionality Reduction</li>
-    </ul>
-  </div>
+  <div class="coming-soon-card">Content will be published as we approach this module.</div>
 </div>
 
-<div class="module-card">
-  <div class="module-header">
-    <div class="module-number">5</div>
+<!-- MODULE 5 -->
+<div class="module-section">
+  <div class="module-section-header">
+    <div class="module-number-badge">5</div>
     <div>
-      <div class="module-title">Advanced ML & Neural Networks</div>
-      <div class="module-meta"><span class="badge badge-upcoming">Upcoming</span> · Focus: NLP, Time Series, Deep Learning</div>
+      <h2>Advanced ML & Neural Networks</h2>
+      <p class="module-focus">Focus: NLP, Time Series, Deep Learning, Transformers</p>
     </div>
   </div>
-  <p>Build cutting-edge models — NLP, time series analysis, CNNs for images, RNNs for sequences, and transformers including BERT.</p>
-  <div class="module-topics">
-    <ul>
-      <li>Natural Language Processing (NLP)</li>
-      <li>Text Classification & Vectorization</li>
-      <li>Time Series Analysis & Modeling</li>
-      <li>Neural Networks with Keras</li>
-      <li>CNNs for Image Classification</li>
-      <li>RNNs for Forecasting</li>
-      <li>Transformers & BERT</li>
-    </ul>
-  </div>
+  <div class="coming-soon-card">Content will be published as we approach this module.</div>
 </div>
 
-<div class="module-card">
-  <div class="module-header">
-    <div class="module-number">6</div>
+<!-- MODULE 6 -->
+<div class="module-section">
+  <div class="module-section-header">
+    <div class="module-number-badge">6</div>
     <div>
-      <div class="module-title">Capstone Projects</div>
-      <div class="module-meta"><span class="badge badge-upcoming">Upcoming</span> · Focus: End-to-end Data Science</div>
+      <h2>Capstone Projects</h2>
+      <p class="module-focus">Focus: End-to-end Data Science</p>
     </div>
   </div>
-  <p>Bring everything together. Build 3 projects solving real business problems using regression, supervised classification, and unsupervised classification.</p>
-  <div class="module-topics">
-    <ul>
-      <li>Project 1: Regression Model</li>
-      <li>Project 2: Supervised Classification</li>
-      <li>Project 3: Unsupervised Classification</li>
-    </ul>
-  </div>
+  <div class="coming-soon-card">Content will be published as we approach this module.</div>
 </div>

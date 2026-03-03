@@ -3,34 +3,41 @@ layout: default
 title: Resources
 ---
 
-<h1>🛠️ Resources & Setup</h1>
-<p>Everything you need to get started and stay on track throughout the programme.</p>
-
-<h2>Platforms We Use</h2>
+<h1>Resources & Setup</h1>
+<p>Everything you need to get started and stay on track.</p>
 
 <div class="card-grid">
   <div class="card">
-    <h3>📚 Canvas LMS</h3>
+    <h3>Canvas LMS</h3>
     <p>Your source of truth for all course content, assignments, grades, and announcements.</p>
     <a href="#">Access Canvas →</a>
   </div>
   <div class="card">
-    <h3>💬 Mattermost</h3>
+    <h3>Mattermost</h3>
     <p>Our primary communication channel. Ask questions, share wins, get help from peers and instructors.</p>
-    <a href="#">Join Mattermost →</a>
-  </div>
-  <div class="card">
-    <h3>📝 CodeGrade</h3>
-    <p>Where you submit and get feedback on your coding assignments.</p>
-    <a href="https://help.codegrade.com/for-students/getting-started/getting-started-in-canvas">CodeGrade Guide →</a>
+    <a href="https://baraza.moringaschool.com/login">Open Mattermost →</a>
   </div>
 </div>
+
+<details>
+  <summary>How to connect to Mattermost</summary>
+  <div class="details-content">
+    <ol>
+      <li>Go to <a href="https://baraza.moringaschool.com/login">baraza.moringaschool.com/login</a> and create your account</li>
+      <li>Download the desktop or mobile app</li>
+      <li>Set the server URL to: <code>https://baraza.moringaschool.com</code></li>
+      <li>Set display name to: <code>moringa-classroom</code></li>
+      <li>Follow <a href="#">this link (to be updated)</a> to join the class channel after signing in</li>
+    </ol>
+    <p>Here is a <a href="#">video guide (to be updated)</a> to walk you through the process.</p>
+    <p><strong>Your active engagement matters!</strong></p>
+  </div>
+</details>
 
 <h2>Environment Setup</h2>
 
 <div class="callout callout-warning">
-  <span class="callout-icon">⚠️</span>
-  <div><strong>Do this before your first class.</strong> Having your environment ready means you can focus on learning, not troubleshooting installations.</div>
+  <strong>Do this before your first class.</strong> Having your environment ready means you can focus on learning, not troubleshooting installations.
 </div>
 
 <h3>1. Python Installation</h3>
@@ -43,8 +50,7 @@ We recommend installing Python through **Anaconda**, which bundles Python with e
 4. Launch **Jupyter Notebook** from Navigator to test
 
 <div class="callout callout-info">
-  <span class="callout-icon">💡</span>
-  <div><strong>Minimum laptop specs:</strong> Core i5 or above, 8GB RAM, 500GB storage, stable internet connection.</div>
+  <strong>Minimum laptop specs:</strong> Core i5 or above, 8GB RAM, 500GB storage, stable internet connection.
 </div>
 
 <h3>2. Jupyter Notebook</h3>
@@ -52,88 +58,58 @@ We recommend installing Python through **Anaconda**, which bundles Python with e
 Jupyter comes with Anaconda. To launch it:
 
 ```
-# From terminal / command prompt
 jupyter notebook
 ```
 
-This will open Jupyter in your browser. Create a new Python 3 notebook to start coding.
+This opens Jupyter in your browser. Create a new Python 3 notebook to start coding.
 
 <h3>3. Git & GitHub</h3>
 
-Git is essential for version control and collaboration.
-
 1. Install Git from [git-scm.com](https://git-scm.com/)
 2. Create a free account on [GitHub](https://github.com/)
-3. Configure Git with your name and email:
+3. Configure:
 
 ```
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
-<h3>4. Text Editor / IDE</h3>
-
-We recommend **VS Code** for writing Python scripts:
+<h3>4. VS Code</h3>
 
 1. Download from [code.visualstudio.com](https://code.visualstudio.com/)
-2. Install the **Python extension** (search "Python" in Extensions)
-3. Install the **Jupyter extension** for notebook support in VS Code
+2. Install the **Python extension**
+3. Install the **Jupyter extension** for notebook support
 
 <h2>Useful References</h2>
 
 <div class="card-grid">
   <div class="card">
-    <h3>🌐 W3Schools</h3>
+    <h3>W3Schools</h3>
     <p>Tutorials and references for Python, SQL, and web technologies.</p>
     <a href="https://www.w3schools.com/">Visit W3Schools →</a>
   </div>
   <div class="card">
-    <h3>🐍 Python Docs</h3>
-    <p>Official Python documentation — the definitive reference.</p>
-    <a href="https://docs.python.org/3/">Python Documentation →</a>
+    <h3>Python Documentation</h3>
+    <p>The official Python reference.</p>
+    <a href="https://docs.python.org/3/">docs.python.org →</a>
   </div>
   <div class="card">
-    <h3>🐼 Pandas Docs</h3>
-    <p>Documentation for the pandas library — essential for data analysis.</p>
-    <a href="https://pandas.pydata.org/docs/">Pandas Documentation →</a>
+    <h3>Pandas Documentation</h3>
+    <p>Essential reference for data analysis with Python.</p>
+    <a href="https://pandas.pydata.org/docs/">pandas.pydata.org →</a>
   </div>
 </div>
 
 <h2>Getting Help</h2>
 
-<table>
-  <thead>
-    <tr>
-      <th>Channel</th>
-      <th>When to Use</th>
-      <th>Response Time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Mattermost #module-help</strong></td>
-      <td>Technical questions, stuck on a problem, need clarification</td>
-      <td>Within 24 hours</td>
-    </tr>
-    <tr>
-      <td><strong>Mattermost #general</strong></td>
-      <td>General questions, sharing resources, community chat</td>
-      <td>Ongoing</td>
-    </tr>
-    <tr>
-      <td><strong>Office Hours</strong></td>
-      <td>Detailed walkthroughs, 1:1 support, career questions</td>
-      <td>Scheduled sessions</td>
-    </tr>
-    <tr>
-      <td><strong>Canvas Inbox</strong></td>
-      <td>Private/personal matters, grade inquiries</td>
-      <td>Within 48 hours</td>
-    </tr>
-  </tbody>
-</table>
+<p>Before reaching out to an instructor, please check the <a href="{{ '/faq/' | relative_url }}">FAQ page</a> — your question may already be answered there.</p>
+
+<p>If you're still stuck:</p>
+
+1. Post your question on **Mattermost #module-help** with details about what you tried
+2. For private or personal matters, use **Canvas Inbox**
+3. For 1:1 support, check office hours announcements on Mattermost
 
 <div class="callout callout-success">
-  <span class="callout-icon">✅</span>
-  <div><strong>Pro tip:</strong> When asking for help with code, always include: what you're trying to do, the code you've written, and the error message you're getting. This helps us help you faster!</div>
+  <strong>When asking for help with code:</strong> always include what you're trying to do, the code you've written, and the error message you're getting. This helps us help you faster.
 </div>
