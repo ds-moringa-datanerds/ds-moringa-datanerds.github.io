@@ -14,7 +14,7 @@ title: Resources
   </div>
   <div class="card">
     <h3>Mattermost</h3>
-    <p>Our primary communication channel. Ask questions, share wins, get help from peers and instructors.</p>
+    <p>Our primary communication channel. Ask questions, share wins, and get help from peers and instructors.</p>
     <a href="https://baraza.moringaschool.com/login">Open Mattermost →</a>
   </div>
 </div>
@@ -27,9 +27,9 @@ title: Resources
       <li>Download the desktop or mobile app</li>
       <li>Set the server URL to: <code>https://baraza.moringaschool.com</code></li>
       <li>Set display name to: <code>moringa-classroom</code></li>
-      <li>Follow <a href="#">this link (to be updated)</a> to join the class channel after signing in</li>
+      <li>Follow <a href="https://baraza.moringaschool.com/morgina-classroom/channels/dsf_pt15">this link </a> to join the class channel after signing in</li>
     </ol>
-    <p>Here is a <a href="#">video guide (to be updated)</a> to walk you through the process.</p>
+    <!-- <p>Here is a <a href="#">video guide (to be updated)</a> to walk you through the process.</p> -->
     <p><strong>Your active engagement matters!</strong></p>
   </div>
 </details>
