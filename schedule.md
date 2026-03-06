@@ -10,6 +10,63 @@ title: Schedule
   All sessions are held via Google Meet. Join using the calendar invite sent to your email.
 </div>
 
+
+<!-- ONBOARDING -->
+<div class="module-section">
+  <div class="module-section-header">
+    <div class="module-number-badge">0</div>
+    <div>
+      <h2>Onboarding Week</h2>
+      <p class="module-focus">Academic orientation, career readiness, and technical setup</p>
+    </div>
+  </div>
+
+  <table class="schedule-table">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Topic</th>
+        <th>Materials</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Tue 03/03</td>
+        <td>
+          <span class="topic-link">Academic Orientation & Tool Readiness</span>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="https://drive.google.com/file/d/14DrUBjOgmOvucQgG6fYzkOh1eAPFCj5O/view" target="_blank">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>Wed 04/03</td>
+        <td>
+          <span class="topic-link">Student Experience & Career Readiness</span>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="https://drive.google.com/file/d/1mfe4QUE823VAzTV0FWyBnANg5ziHF262/view?usp=sharing" target="_blank">Recording</a>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>Thu 05/03</td>
+        <td>
+          <span class="topic-link">Technical Readiness & Catch-Up</span>
+        </td>
+        <td>
+          <div class="materials">
+            <a href="https://drive.google.com/file/d/15Zn4nX0BQeKeiHufKEEA7KuWf8nuebZX/view?usp=sharing" target="_blank">Recording</a>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <!-- MODULE 1 -->
 <div class="module-section">
   <div class="module-section-header">
