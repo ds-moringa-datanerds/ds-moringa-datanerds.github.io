@@ -10,7 +10,7 @@ title: Resources
   <div class="card">
     <h3>Canvas LMS</h3>
     <p>Your source of truth for all course content, assignments, grades, and announcements.</p>
-    <a href="#">Access Canvas →</a>
+    <a href="https://moringa.instructure.com/courses/1393">Access Canvas →</a>
   </div>
   <div class="card">
     <h3>Mattermost</h3>
