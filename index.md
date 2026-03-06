@@ -23,8 +23,8 @@ title: Home
   <a href="{{ '/resources/' | relative_url }}" class="quick-link">Tools & Setup</a>
   <a href="{{ '/faq/' | relative_url }}" class="quick-link">FAQ</a>
   <a href="{{ '/project/' | relative_url }}" class="quick-link">Course Project</a>
-  <a href="#" class="quick-link">Mattermost</a>
-  <a href="#" class="quick-link">Canvas LMS</a>
+  <a href="https://baraza.moringaschool.com/morgina-classroom/channels/dsf_pt15" target="_blank" class="quick-link">Mattermost</a>
+<a href="https://moringa.instructure.com/courses/1393" target="_blank" class="quick-link">Canvas LMS</a>
 </div>
 
 <h2>Instructors</h2>
