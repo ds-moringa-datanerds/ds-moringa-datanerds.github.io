@@ -100,7 +100,7 @@ git config --global user.email "your.email@example.com"
   </div>
 </div>
 
-<h2>Getting Help</h2>
+<!-- <h2>Getting Help</h2>
 
 <p>Before reaching out to an instructor, please check the <a href="{{ '/faq/' | relative_url }}">FAQ page</a> — your question may already be answered there.</p>
 
@@ -108,7 +108,34 @@ git config --global user.email "your.email@example.com"
 
 1. Post your question on **Mattermost #module-help** with details about what you tried
 2. For private or personal matters, use **Canvas Inbox**
-3. For 1:1 support, check office hours announcements on Mattermost
+3. For 1:1 support, check office hours announcements on Mattermost -->
+<h2>Getting Help</h2>
+
+<p>Before reaching out to an instructor, check the <a href="{{ '/faq/' | relative_url }}">FAQ page</a> — your question may already be answered there.</p>
+
+<p>If you're still stuck:</p>
+
+<ol>
+  <li><strong>Post on the Mattermost class channel</strong> — include what you tried and any error messages. Peers and instructors respond within 24 hours on weekdays.</li>
+  <li><strong>Book a session</strong> — if you need focused 1:1 help, book directly with an instructor:</li>
+</ol>
+
+<div class="card-grid">
+  <div class="card">
+    <h3>Bonface</h3>
+    <a href="#">Book a session →{coming soon}</a>
+  </div>
+  <div class="card">
+    <h3>Samwel</h3>
+    <a href="#">Book a session →{coming soon}</a>
+  </div>
+  <div class="card">
+    <h3>Diana</h3>
+    <a href="#">Book a session →{coming soon}</a>
+  </div>
+</div>
+
+<!-- <p>Replace the <code>#</code> in each link above with the actual Calendly URL for each instructor.</p> -->
 
 <div class="callout callout-success">
   <strong>When asking for help with code:</strong> always include what you're trying to do, the code you've written, and the error message you're getting. This helps us help you faster.
