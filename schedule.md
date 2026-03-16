@@ -6,8 +6,17 @@ title: Schedule
 <h1>Course Schedule</h1>
 <p>The programme runs over 37 weeks across 6 modules. Each module builds on the previous one. Detailed topics are added as we progress — check Canvas for the most current assignment due dates.</p>
 
-<div class="callout callout-info">
+<!-- <div class="callout callout-info">
   All sessions are held via Google Meet. Join using the calendar invite sent to your email.
+</div> -->
+
+<div class="callout callout-info">
+  <p><strong>All sessions are held via Google Meet.</strong></p>
+
+  <p><strong>Join the meeting:</strong><br>
+  <a href="https://meet.google.com/gha-fusm-czi" target="_blank">
+    https://meet.google.com/gha-fusm-czi
+  </a></p>
 </div>
 
 
