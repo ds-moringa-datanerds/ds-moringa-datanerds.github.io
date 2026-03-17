@@ -116,6 +116,7 @@ title: Schedule
           <td>
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1FVP1GdIdq7kpaJ-iqCnC-TE1Vq0ZdST9/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/164u0fB6Lk93mvmjexLEt75gdnLIFBtwu/view?usp=sharing" target ="_blank">Notebook</a>
               <a href="#">Recording</a>
             </div>
           </td>
