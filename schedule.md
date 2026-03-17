@@ -77,6 +77,7 @@ title: Schedule
 </div>
 
 <!-- MODULE 1 -->
+<!-- MODULE 1 -->
 <div class="module-section">
   <div class="module-section-header">
     <div class="module-number-badge">1</div>
@@ -86,159 +87,119 @@ title: Schedule
     </div>
   </div>
 
-  <table class="schedule-table">
-    <thead>
-      <tr>
-        <th>Lesson</th>
-        <th>Topic</th>
-        <th>Materials</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td>
-          <span class="topic-link">Introduction to Programming</span><br>
-          <small>History of computing, what is programming, compiled vs interpreted languages</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>
-          <span class="topic-link">Software Development Life Cycle</span><br>
-          <small>SDLC phases, development process, IDE setup and debugging</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>
-          <span class="topic-link">Algorithms & Pseudocode</span><br>
-          <small>What are algorithms, pseudocode, flowcharts, problem decomposition</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>
-          <span class="topic-link">Python Commands & Variables</span><br>
-          <small>Defining commands, variables, data types, basic operations</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>
-          <span class="topic-link">Operators & Control Flow</span><br>
-          <small>Arithmetic, comparison, logical operators, if/else statements</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>
-          <span class="topic-link">While Loops</span><br>
-          <small>Loop structure, conditions, counters, practical applications</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>7</td>
-        <td>
-          <span class="topic-link">For Loops & Functions</span><br>
-          <small>Iteration, range, nested loops, defining and calling functions</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>8</td>
-        <td>
-          <span class="topic-link">Tuples & Lists</span><br>
-          <small>Creating, accessing, modifying sequences, list methods, tuple immutability</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>9</td>
-        <td>
-          <span class="topic-link">Dictionaries, Strings & File Handling</span><br>
-          <small>Key-value pairs, string methods, reading/writing files, logging</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>10</td>
-        <td>
-          <span class="topic-link">Libraries, Modules & Packages</span><br>
-          <small>Importing libraries, functions vs modules vs packages, pip</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Slides</a>
-            <a href="#">Recording</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>
-          <strong>Summative Assessment: Analyze a News Article</strong><br>
-          <small>Apply Python skills to analyze data in a file (Lab: 100 pts, Quiz: 100 pts)</small>
-        </td>
-        <td>
-          <div class="materials">
-            <a href="#">Brief</a>
-          </div>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <!-- WEEK 1 -->
+  <details class="week-dropdown">
+    <summary class="week-summary">Week 1 — Introduction to Programming</summary>
+
+    <table class="schedule-table">
+      <thead>
+        <tr>
+          <th>Day</th>
+          <th>Topic</th>
+          <th>Materials</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Day 1</td>
+          <td><span class="topic-link">Introduction to Programming & SDLC</span></td>
+          <td>
+            <div class="materials">
+              <a href="https://docs.google.com/presentation/d/18aLgvpCwYHu4adiA-HYubstHTe9Z3xYp/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true">Slides</a>
+              <a href="https://drive.google.com/file/d/19TOqxKJtQShHCY2ROdC0drwU27mj59rF/view?usp=sharing">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 2</td>
+          <td><span class="topic-link">Operators & Control Flow</span></td>
+          <td>
+            <div class="materials">
+              <a href="#">Slides</a>
+              <a href="#">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 3</td>
+          <td><span class="topic-link">While Loops</span></td>
+          <td>
+            <div class="materials">
+              <a href="#">Slides</a>
+              <a href="#">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 4–5</td>
+          <td><span class="topic-link">For Loops & Functions</span></td>
+          <td>
+            <div class="materials">
+              <a href="#">Slides</a>
+              <a href="#">Recording</a>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
+  <!-- WEEK 2 -->
+  <details class="week-dropdown">
+    <summary class="week-summary">Week 2 — Data Structures & Assessment</summary>
+
+    <table class="schedule-table">
+      <thead>
+        <tr>
+          <th>Day</th>
+          <th>Topic</th>
+          <th>Materials</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Day 6–7</td>
+          <td><span class="topic-link">Tuples & Lists</span></td>
+          <td>
+            <div class="materials">
+              <a href="#">Slides</a>
+              <a href="#">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 8–9</td>
+          <td><span class="topic-link">Dictionaries & Strings</span></td>
+          <td>
+            <div class="materials">
+              <a href="#">Slides</a>
+              <a href="#">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 10–11</td>
+          <td><span class="topic-link">Libraries & Functions</span></td>
+          <td>
+            <div class="materials">
+              <a href="#">Slides</a>
+              <a href="#">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 12–13</td>
+          <td><strong>Summative Assessment</strong></td>
+          <td>
+            <div class="materials">
+              <a href="#">Brief</a>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
 </div>
 
 <!-- MODULE 2 -->
