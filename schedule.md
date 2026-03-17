@@ -115,7 +115,7 @@ title: Schedule
           <td><span class="topic-link">Operators & Control Flow</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
+              <a href="https://docs.google.com/presentation/d/1FVP1GdIdq7kpaJ-iqCnC-TE1Vq0ZdST9/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
               <a href="#">Recording</a>
             </div>
           </td>
