@@ -23,6 +23,7 @@ title: Home
   <a href="{{ '/resources/' | relative_url }}" class="quick-link">Tools & Setup</a>
   <a href="{{ '/faq/' | relative_url }}" class="quick-link">FAQ</a>
   <a href="{{ '/project/' | relative_url }}" class="quick-link">Course Project</a>
+  <a href="{{ '/project/' | relative_url }}#groups" class="quick-link">Study Groups</a>
   <a href="https://baraza.moringaschool.com/morgina-classroom/channels/dsf_pt15" target="_blank" class="quick-link">Mattermost</a>
 <a href="https://moringa.instructure.com/courses/1393" target="_blank" class="quick-link">Canvas LMS</a>
 </div>
@@ -42,12 +43,12 @@ title: Home
     <h4>Samwel</h4>
     <p>Data Science Facilitator</p>
   </div>
-  <div class="instructor-card">
+  <!-- <div class="instructor-card"> -->
     <!-- Replace src with actual photo: /assets/images/diana.jpg -->
-    <div class="instructor-photo-placeholder">D</div>
+    <!-- <div class="instructor-photo-placeholder">D</div>
     <h4>Diana</h4>
     <p>Data Science Facilitator</p>
-  </div>
+  </div> -->
 </div>
 
 <h2>Programme Overview</h2>
