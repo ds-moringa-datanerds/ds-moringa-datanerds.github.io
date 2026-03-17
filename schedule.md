@@ -105,8 +105,8 @@ title: Schedule
           <td><span class="topic-link">Introduction to Programming & SDLC</span></td>
           <td>
             <div class="materials">
-              <a href="https://docs.google.com/presentation/d/18aLgvpCwYHu4adiA-HYubstHTe9Z3xYp/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true">Slides</a>
-              <a href="https://drive.google.com/file/d/19TOqxKJtQShHCY2ROdC0drwU27mj59rF/view?usp=sharing">Recording</a>
+              <a href="https://docs.google.com/presentation/d/18aLgvpCwYHu4adiA-HYubstHTe9Z3xYp/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/19TOqxKJtQShHCY2ROdC0drwU27mj59rF/view?usp=sharing" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
