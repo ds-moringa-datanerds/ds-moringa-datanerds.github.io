@@ -11,6 +11,153 @@ title: Project
   The project is a learning tool, not a separate assignment. Think of it as the thread that connects each lesson together into something you can see and interact with.
 </div>
 
+<!-- STUDY GROUPS -->
+<div id="groups">
+  <h2>Study Groups</h2>
+  <p>You've been assigned to a study group for the duration of the programme. Use your group for peer support, discussing concepts, and collaborating on project milestones.</p>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 1</summary>
+    <ul>
+      <li><strong>Darrell Lubulela George</strong> (Group Leader)</li>
+      <li>Varlerly Maina</li>
+      <li>Amos Mbaluka Nzyimi</li>
+      <li>Galgallo Ibrae</li>
+      <li>Cindy Murogo</li>
+      <li>Daniel Kimasar</li>
+      <li>Isaya Ochieng Okeyo</li>
+      <li>NELSON MASAKI</li>
+      <li>Chrispine Muema Muthama</li>
+    </ul>
+  </details>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 2</summary>
+    <ul>
+      <li><strong>Barbara Kinoti</strong> (Group Leader)</li>
+      <li>Livingstone Talel</li>
+      <li>Donnelly Mwachi</li>
+      <li>Faith Ngina Muiruri</li>
+      <li>Laureen Nyambura Kamande</li>
+      <li>Kelvin Namutenda Omucheyi</li>
+      <li>Daniel Tabut</li>
+      <li>Jeremy Atambo</li>
+      <li>George Okumu</li>
+    </ul>
+  </details>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 3</summary>
+    <ul>
+      <li><strong>Jeremy Mwangi</strong> (Group Leader)</li>
+      <li>Ian Ngugi</li>
+      <li>Frasiah Wanjiru</li>
+      <li>Grace Muthoni</li>
+      <li>Pauline Kariuki</li>
+      <li>Linnet Kinyua</li>
+      <li>Clement Otindo</li>
+      <li>Meshack Kimanzi</li>
+      <li>Valentino Wanjiku</li>
+      <li>Daniel Chirchir</li>
+    </ul>
+  </details>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 4</summary>
+    <ul>
+      <li><strong>Monica Nyagaya</strong> (Group Leader)</li>
+      <li>COLLINS MURKEU</li>
+      <li>Mokeira Gisairo</li>
+      <li>Nickson Kipruto</li>
+      <li>Peter</li>
+      <li>ESTHER SAISI</li>
+      <li>Myles Imbayi</li>
+      <li>Martin Mwau Ngemu</li>
+      <li>John Njuguna</li>
+    </ul>
+  </details>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 5</summary>
+    <ul>
+      <li><strong>Alica Mbithe Munyao</strong> (Group Leader)</li>
+      <li>Daniella Thande</li>
+      <li>Fadhili Njenga Munyua</li>
+      <li>Jacinta Moraa Osoro</li>
+      <li>Belinder Akoth</li>
+      <li>Tonny Njeru</li>
+      <li>George Maina Kinuthia</li>
+      <li>Prisca Kasyoki</li>
+      <li>ELLYJOY KAIMENYI</li>
+      <li>Isaac Ndiba Njuguna</li>
+    </ul>
+  </details>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 6</summary>
+    <ul>
+      <li><strong>Franklin Karimi Gikonyo</strong> (Group Leader)</li>
+      <li>Rose Murugu</li>
+      <li>FIDELIS NGUYO MURIITHI</li>
+      <li>Oscar Mokera</li>
+      <li>Josphat Ombui</li>
+      <li>Rhoda Mwende Kimweli</li>
+      <li>Carolne Jeptoo Rotich</li>
+      <li>Patrick Kipronoh</li>
+      <li>Tracey Nyaga</li>
+    </ul>
+  </details>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 7</summary>
+    <ul>
+      <li><strong>Eglen Epha Nyangasi</strong> (Group Leader)</li>
+      <li>Julie Njoroge</li>
+      <li>DWEIN SWALEH</li>
+      <li>Dennis Mwikya</li>
+      <li>JUMA BOY OTILA</li>
+      <li>David Omondi Mayeye</li>
+      <li>Jeff Waweru</li>
+      <li>John Mbuthia Njuguna</li>
+      <li>Pharrell Kitusa</li>
+      <li>Patrick Wainaina Mburu</li>
+    </ul>
+  </details>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 8</summary>
+    <ul>
+      <li><strong>Ngamau Mbau</strong> (Group Leader)</li>
+      <li>Kevin Kuria Mukundi</li>
+      <li>Benedict Onyango Aloo</li>
+      <li>FRANCIS KAMAU MWANGI</li>
+      <li>Donald Kipsoi</li>
+      <li>SHILLAH MBOYA</li>
+      <li>Lawrence Ngigi Nyoro</li>
+      <li>Lincoln Maina</li>
+      <li>MANANDA KIRUNGU SALIM</li>
+      <li>Teddy Kibuthu</li>
+    </ul>
+  </details>
+
+  <details class="week-dropdown">
+    <summary class="week-summary">Group 9</summary>
+    <ul>
+      <li><strong>Immanuel Shem</strong> (Group Leader)</li>
+      <li>Maureen N. Njuguna</li>
+      <li>Benedict Kosgei</li>
+      <li>Samerick Wanjala Wakhungu</li>
+      <li>Cyrus Kirui</li>
+      <li>Cleophas Ndunda</li>
+      <li>Chrispine Muema Muthama</li>
+      <li>Patrick Palex</li>
+      <li>Bildan Oloo</li>
+      <li>Patrick Pale</li>
+    </ul>
+  </details>
+
+</div>
+
 <h2>Module 1 — Python Toolkit: Personal Task Manager</h2>
 
 <p>In Module 1, you'll build a <strong>Personal Task Manager</strong> from scratch using only Python. It starts simple and grows more capable as you learn new concepts. By the end of the module, you'll have a working command-line tool that you built piece by piece.</p>
