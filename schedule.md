@@ -137,8 +137,8 @@ title: Schedule
           <td><span class="topic-link">For Loops & Functions</span></td>
           <td>
             <div class="materials">
-              <a href="#" target ="_blank">Slides</a>
-              <a href="ht#" target ="_blank">Notebook</a>
+              <a href="https://docs.google.com/presentation/d/12Vw8o1oYy1yJ9Kf6m_MlPWUu3_sRPnwS/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target ="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/1KCHUf1XaU1e_63qDJffsylZEXcgN0BaR/view?usp=drive_link" target ="_blank">Notebook</a>
               <a href="#" target ="_blank">Recording</a>
             </div>
           </td>
