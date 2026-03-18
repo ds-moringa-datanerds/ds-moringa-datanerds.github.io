@@ -128,7 +128,7 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1upXlgqTNXSjtrde7XOWuphkfZTlFauHe/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
               <a href="https://drive.google.com/file/d/1GOjd0OPX306UZRYk-HeLjqUWaH5UbOJc/view?usp=sharing" target ="_blank">Notebook</a>
-              <a href="#" target ="_blank">Recording</a>
+              <a href="https://drive.google.com/file/d/1W6vswa9RbMJ0jLOzbN-gBJa7z2U19024/view?usp=sharing" target ="_blank">Recording</a>
             </div>
           </td>
         </tr>
