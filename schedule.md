@@ -167,7 +167,7 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1dIeLct9yMLv-MsZ7pyTOsRcvp0wqJAGg/edit?usp=drivesdk&ouid=102519311863933464913&rtpof=true&sd=true" target ="_blank" >Slides</a>
               <a href="https://colab.research.google.com/drive/1jMdn-dxTaFI7rO-VFiBr0U-CWIwlh4QB?usp=sharing" target ="_blank">Notebook</a>
-              <a href="#" target ="_blank">Recording</a>
+              <a href="https://drive.google.com/file/d/1vqbIWjz8vik0r2_snWMuTqLQR9Nqezo7/view?usp=sharing" target ="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -176,8 +176,9 @@ title: Schedule
           <td><span class="topic-link">Dictionaries & Strings</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="#" target ="_blank">Slides</a>
+              <a href="#" target ="_blank">Notebook</a>
+              <a href="#" target ="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -186,8 +187,9 @@ title: Schedule
           <td><span class="topic-link">Libraries & Functions</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="#" target ="_blank">Slides</a>
+              <a href="#" target ="_blank">Notebook</a>
+              <a href="#" target ="_blank">Recording</a>
             </div>
           </td>
         </tr>
