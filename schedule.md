@@ -165,8 +165,8 @@ title: Schedule
           <td><span class="topic-link">Tuples & Lists</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="https://docs.google.com/presentation/d/1dIeLct9yMLv-MsZ7pyTOsRcvp0wqJAGg/edit?usp=drivesdk&ouid=102519311863933464913&rtpof=true&sd=true" target ="_blank" >Slides</a>
+              <a href="#" target ="_blank">Recording</a>
             </div>
           </td>
         </tr>
