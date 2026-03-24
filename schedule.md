@@ -176,8 +176,8 @@ title: Schedule
           <td><span class="topic-link">Dictionaries & Strings</span></td>
           <td>
             <div class="materials">
-              <a href="#" target ="_blank">Slides</a>
-              <a href="#" target ="_blank">Notebook</a>
+              <a href="https://docs.google.com/presentation/d/11WvfmsKBfBE22HO6ccCwt_G4DMm9xupd/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target ="_blank">Slides</a>
+              <a href="https://colab.research.google.com/drive/1x_iL7S2KyywQvjEBiXKRLlDNHCaBbdYL" target ="_blank">Notebook</a>
               <a href="#" target ="_blank">Recording</a>
             </div>
           </td>
