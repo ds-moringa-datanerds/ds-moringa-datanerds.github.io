@@ -178,7 +178,7 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/11WvfmsKBfBE22HO6ccCwt_G4DMm9xupd/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target ="_blank">Slides</a>
               <a href="https://colab.research.google.com/drive/1x_iL7S2KyywQvjEBiXKRLlDNHCaBbdYL" target ="_blank">Notebook</a>
-              <a href="#" target ="_blank">Recording</a>
+              <a href="https://drive.google.com/file/d/1c4yB7Srbzh_OFk3R88XTcJ1GCpv4W0WS/view?usp=sharing" target ="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -187,8 +187,8 @@ title: Schedule
           <td><span class="topic-link">Libraries & Functions</span></td>
           <td>
             <div class="materials">
-              <a href="#" target ="_blank">Slides</a>
-              <a href="#" target ="_blank">Notebook</a>
+              <a href="https://docs.google.com/presentation/d/1jcuQjOFiFVo-DnsdZa28EAyvQ3b-1U_v/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target ="_blank">Slides</a>
+              <a href="https://colab.research.google.com/drive/1y_apYJ7PIT-vZVDzyQrBLcEc8YYtWqIg?usp=sharing" target ="_blank">Notebook</a>
               <a href="#" target ="_blank">Recording</a>
             </div>
           </td>
