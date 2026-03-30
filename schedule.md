@@ -194,6 +194,17 @@ title: Schedule
           </td>
         </tr>
         <tr>
+        <td>Day 10–11 Part 2</td>
+          <td><span class="topic-link">Regex</span></td>
+          <td>
+            <div class="materials">
+              <a href="https://docs.google.com/presentation/d/1k1S_5YblswJo37hX95tvbcjMRnJ4OUZE/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target ="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/1Hd3NUht3M8xx60kj9VwoSY2fElov-8ob/view?usp=sharing" target ="_blank">Notebook</a>
+              <a href="#" target ="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
           <td>Day 12–13</td>
           <td><strong>Summative Assessment</strong></td>
           <td>
