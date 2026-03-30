@@ -189,7 +189,7 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1jcuQjOFiFVo-DnsdZa28EAyvQ3b-1U_v/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target ="_blank">Slides</a>
               <a href="https://colab.research.google.com/drive/1y_apYJ7PIT-vZVDzyQrBLcEc8YYtWqIg?usp=sharing" target ="_blank">Notebook</a>
-              <a href="#" target ="_blank">Recording</a>
+              <a href="https://drive.google.com/file/d/1djpAbz12odMLYgKFAs_EcCSgGCUwSXSF/view?usp=sharing" target ="_blank">Recording</a>
             </div>
           </td>
         </tr>
