@@ -200,7 +200,7 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1k1S_5YblswJo37hX95tvbcjMRnJ4OUZE/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target ="_blank">Slides</a>
               <a href="https://drive.google.com/file/d/1Hd3NUht3M8xx60kj9VwoSY2fElov-8ob/view?usp=sharing" target ="_blank">Notebook</a>
-              <a href="#" target ="_blank">Recording</a>
+              <a href="https://drive.google.com/file/d/1sInd7k-fAVsCNE0f1Tg8sucKpR7krJL8/view?usp=sharing" target ="_blank">Recording</a>
             </div>
           </td>
         </tr>
