@@ -236,18 +236,19 @@ title: Schedule
           <td><span class="topic-link">What is Data Science &amp; Environment Setup</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="https://docs.google.com/presentation/d/1pXDq_fys4byh7apmQMfwyH9tqzWVPW3E/edit?usp=sharing" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/1CtvWXsQyQBwyMf0d1dSNEFcgI8vh_MZQ/view?usp=sharing" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
         <tr>
           <td>Day 2</td>
-          <td><span class="topic-link">Types of Data &amp; Collecting Data</span></td>
+          <td><span class="topic-link">Types of Data &amp; Data Cleaning</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="https://docs.google.com/presentation/d/1oEoiUpsejnNucOJ_vSu5ZNE1VgbsAwqA/edit?usp=sharing" target="_blank">Slides</a>
+              <a href="https://github.com/ds-moringa-datanerds/dsf-pt15-student-materials" target="_blank">Notebook</a>
+              <a href="https://drive.google.com/file/d/1piX2OXjXn_JSXoIGKAKvERoijWrDMe6T/view?usp=sharing" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
