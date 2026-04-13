@@ -4,7 +4,7 @@ title: Schedule
 ---
 
 <h1>Course Schedule</h1>
-<p>The programme runs over 37 weeks across 6 modules. Each module builds on the previous one. Detailed topics are added as we progress — check Canvas for the most current assignment due dates.</p>
+<p>The programme runs over 37 weeks across 6 modules. Each module builds on the previous one. Detailed topics are added as we progress â check Canvas for the most current assignment due dates.</p>
 
 <div class="callout callout-info">
   <p><strong>All sessions are held via Google Meet.</strong></p>
@@ -78,7 +78,7 @@ title: Schedule
 
   <!-- WEEK 1 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 1 — Introduction to Programming</summary>
+    <summary class="week-summary">Week 1 â Introduction to Programming</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -121,7 +121,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 4–5</td>
+          <td>Day 4â5</td>
           <td><span class="topic-link">For Loops & Functions</span></td>
           <td>
             <div class="materials">
@@ -137,7 +137,7 @@ title: Schedule
 
   <!-- WEEK 2 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 2 — Data Structures & Assessment</summary>
+    <summary class="week-summary">Week 2 â Data Structures & Assessment</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -148,7 +148,7 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td>Day 6–7</td>
+          <td>Day 6â7</td>
           <td><span class="topic-link">Tuples & Lists</span></td>
           <td>
             <div class="materials">
@@ -159,7 +159,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 8–9</td>
+          <td>Day 8â9</td>
           <td><span class="topic-link">Dictionaries & Strings</span></td>
           <td>
             <div class="materials">
@@ -170,7 +170,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 10–11</td>
+          <td>Day 10â11</td>
           <td><span class="topic-link">Libraries & Functions</span></td>
           <td>
             <div class="materials">
@@ -181,7 +181,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 10–11 Part 2</td>
+          <td>Day 10â11 Part 2</td>
           <td><span class="topic-link">Regex</span></td>
           <td>
             <div class="materials">
@@ -192,7 +192,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 12–13</td>
+          <td>Day 12â13</td>
           <td><strong>Summative Assessment</strong></td>
           <td>
             <div class="materials">
@@ -221,7 +221,7 @@ title: Schedule
 
   <!-- WEEK 3 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 3 — What is Data Science?</summary>
+    <summary class="week-summary">Week 3 â What is Data Science?</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -268,7 +268,7 @@ title: Schedule
 
   <!-- WEEK 4 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 4 — Data Analysis with Python</summary>
+    <summary class="week-summary">Week 4 â Data Analysis with Python</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -280,7 +280,7 @@ title: Schedule
       <tbody>
         <tr>
           <td>Day 1</td>
-          <td><span class="topic-link">Pandas Part 1 — DataFrames &amp; Series</span></td>
+          <td><span class="topic-link">Pandas Part 1 â DataFrames &amp; Series</span></td>
           <td>
             <div class="materials">
               <a href="#">Slides</a>
@@ -290,7 +290,7 @@ title: Schedule
         </tr>
         <tr>
           <td>Day 2</td>
-          <td><span class="topic-link">Pandas Part 2 — Cleaning, Aggregating &amp; Reshaping</span></td>
+          <td><span class="topic-link">Pandas Part 2 â Cleaning, Aggregating &amp; Reshaping</span></td>
           <td>
             <div class="materials">
               <a href="#">Slides</a>
@@ -316,7 +316,7 @@ title: Schedule
 
   <!-- WEEK 5 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 5 — Getting Started with SQL</summary>
+    <summary class="week-summary">Week 5 â Getting Started with SQL</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -331,7 +331,7 @@ title: Schedule
           <td><span class="topic-link">Databases &amp; SQL Foundations</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
+              <a href="https://docs.google.com/presentation/d/16SQ9jL3ZkaLb1b24GFxJeewdqvwqDHDM/edit?usp=sharing&ouid=102519311863933464913&rtpof=true&sd=true" target="_blank">Slides</a>
               <a href="#">Recording</a>
             </div>
           </td>
@@ -341,7 +341,7 @@ title: Schedule
           <td><span class="topic-link">Filtering, Ordering &amp; Limiting Data</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
+              <a href="https://docs.google.com/presentation/d/1FyErgNuaHhNmT6xHhbFkPdJZIKn8gFES/edit?usp=sharing&ouid=102519311863933464913&rtpof=true&sd=true" target="_blank">Slides</a>
               <a href="#">Recording</a>
             </div>
           </td>
@@ -362,7 +362,7 @@ title: Schedule
 
   <!-- WEEK 6 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 6 — SQL Table Relations &amp; Analysis</summary>
+    <summary class="week-summary">Week 6 â SQL Table Relations &amp; Analysis</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -408,7 +408,7 @@ title: Schedule
 
   <!-- WEEK 7 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 7 — Database Design &amp; Summative</summary>
+    <summary class="week-summary">Week 7 â Database Design &amp; Summative</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -460,7 +460,7 @@ title: Schedule
   <div class="module-section-header">
     <div class="module-number-badge">3</div>
     <div>
-      <h2>Foundations — Cloud, Stats & Regression</h2>
+      <h2>Foundations â Cloud, Stats & Regression</h2>
       <p class="module-focus">Focus: PySpark, SQL, Inferential statistics, Regression</p>
     </div>
   </div>
