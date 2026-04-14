@@ -285,7 +285,8 @@ title: Schedule
           <td>
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1FyErgNuaHhNmT6xHhbFkPdJZIKn8gFES/edit?usp=sharing&ouid=102519311863933464913&rtpof=true&sd=true" target="_blank">Slides</a>
-              <a href="#">Recording</a>
+              <a href="https://drive.google.com/file/d/1NAIfVWnHb38eWyr2y02_VqCh8LqorP5I/view?usp=drive_link" target="_blank">Notebook</a>
+              <a href="https://drive.google.com/file/d/1arGKE_rm_WyOoCizom-HFk65t2TGUBO0/view">Recording</a>
             </div>
           </td>
         </tr>
