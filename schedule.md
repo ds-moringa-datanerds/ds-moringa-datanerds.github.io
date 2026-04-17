@@ -275,7 +275,7 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/16SQ9jL3ZkaLb1b24GFxJeewdqvwqDHDM/edit?usp=sharing&ouid=102519311863933464913&rtpof=true&sd=true" target="_blank">Slides</a>
               <a href="https://drive.google.com/file/d/1FXHIMMeiHIlw05nRB-E1xaAbYUmlbv8l/view?usp=drive_link" target="_blank">Notebook</a>
-              <a href="#">Recording</a>
+              <a href="https://drive.google.com/file/d/1arGKE_rm_WyOoCizom-HFk65t2TGUBO0/view?usp=sharing" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -286,17 +286,30 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1FyErgNuaHhNmT6xHhbFkPdJZIKn8gFES/edit?usp=sharing&ouid=102519311863933464913&rtpof=true&sd=true" target="_blank">Slides</a>
               <a href="https://drive.google.com/file/d/1NAIfVWnHb38eWyr2y02_VqCh8LqorP5I/view?usp=drive_link" target="_blank">Notebook</a>
-              <a href="https://drive.google.com/file/d/1arGKE_rm_WyOoCizom-HFk65t2TGUBO0/view">Recording</a>
+              <a href="https://drive.google.com/file/d/1arGKE_rm_WyOoCizom-HFk65t2TGUBO0/view" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
         <tr>
-          <td>Day 3</td>
-          <td><span class="topic-link">Seaborn &amp; Object Oriented Programming</span></td>
+          <td>Day 2 - Catch-up Session</td>
+          <td><span class="topic-link">Data Analysis with Pandas</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <!-- <a href="https://docs.google.com/presentation/d/1FyErgNuaHhNmT6xHhbFkPdJZIKn8gFES/edit?usp=sharing&ouid=102519311863933464913&rtpof=true&sd=true" target="_blank">Slides</a> -->
+              <!-- <a href="https://drive.google.com/file/d/1NAIfVWnHb38eWyr2y02_VqCh8LqorP5I/view?usp=drive_link" target="_blank">Notebook</a> -->
+              <a href="https://drive.google.com/file/d/1JzP0l_lMJFE5dEiCzgFc0Le80ZQSm3TQ/view?usp=sharing" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 3</td> 
+          <!-- Seaborn &amp;  -->
+          <td><span class="topic-link">Object Oriented Programming</span></td>
+          <td>
+            <div class="materials">
+              <!-- <a href="#">Slides</a>-->
+              <a href="https://github.com/karusamuel/OOP" target="_blank">Notebook</a> 
+              <a href="https://drive.google.com/file/d/1LLpTnz6T-F50W-omZLit6_syB3GjH84b/view?usp=sharing" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
