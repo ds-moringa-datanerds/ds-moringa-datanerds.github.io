@@ -313,6 +313,18 @@ title: Schedule
             </div>
           </td>
         </tr>
+         <tr>
+          <td>Day 3_contd</td> 
+          <!-- Seaborn &amp;  -->
+          <td><span class="topic-link">Object Oriented Programming - contd</span></td>
+          <td>
+            <div class="materials">
+              <!-- <a href="#">Slides</a>-->
+              <a href="https://github.com/karusamuel/OOP" target="_blank">Notebook</a> 
+              <a href="https://drive.google.com/file/d/1evrQvOTi7zWcJvvfCZc-wBp__NdM-7hF/view?usp=sharing" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
       </tbody>
     </table>
   </details>
@@ -336,7 +348,7 @@ title: Schedule
           <td><span class="topic-link">Databases &amp; SQL Foundations</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
+              <a href="https://docs.google.com/presentation/d/1TPzy31oyi-CAFD8Zd1fWJoe-3vBgsRD3N_r4Avr2tj8/edit?usp=sharing">Slides</a>
               <a href="#">Recording</a>
             </div>
           </td>
