@@ -348,8 +348,9 @@ title: Schedule
           <td><span class="topic-link">Databases &amp; SQL Foundations</span></td>
           <td>
             <div class="materials">
-              <a href="https://docs.google.com/presentation/d/1TPzy31oyi-CAFD8Zd1fWJoe-3vBgsRD3N_r4Avr2tj8/edit?usp=sharing">Slides</a>
-              <a href="#">Recording</a>
+              <a href="https://docs.google.com/presentation/d/1TPzy31oyi-CAFD8Zd1fWJoe-3vBgsRD3N_r4Avr2tj8/edit?usp=sharing" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/1QHkvJck7p_cWauKiR5L099v9b394Vrlu/view?usp=drive_link" target="_blank">Notebook</a>
+              <a href="https://drive.google.com/file/d/1moYXZtwFOakjVMmAbf5A8zJa2WGw47nO/view?usp=sharing" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
