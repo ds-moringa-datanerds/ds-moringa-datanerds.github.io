@@ -345,7 +345,7 @@ title: Schedule
       <tbody>
         <tr>
           <td>Day 1</td>
-          <td><span class="topic-link">Databases &amp; SQL Foundations</span></td>
+          <td><span class="topic-link">Introduction to SQL</span></td>
           <td>
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1TPzy31oyi-CAFD8Zd1fWJoe-3vBgsRD3N_r4Avr2tj8/edit?usp=sharing" target="_blank">Slides</a>
@@ -355,12 +355,24 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 2</td>
-          <td><span class="topic-link">Filtering, Ordering &amp; Limiting Data</span></td>
+          <td>Day 1-Catch_up Session</td>
+          <td><span class="topic-link">Introduction to SQL</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <!-- <a href="https://docs.google.com/presentation/d/1TPzy31oyi-CAFD8Zd1fWJoe-3vBgsRD3N_r4Avr2tj8/edit?usp=sharing" target="_blank">Slides</a> -->
+              <a href="https://drive.google.com/file/d/1QHkvJck7p_cWauKiR5L099v9b394Vrlu/view?usp=drive_link" target="_blank">Notebook</a>
+              <a href="https://drive.google.com/file/d/11crGST2objHBuJlY_Kz4F2fdV4Kl96P1/view?usp=sharing" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 2</td>
+          <td><span class="topic-link">Table Relations in  SQL</span></td>
+          <td>
+            <div class="materials">
+              <a href="https://docs.google.com/presentation/d/1aLvE8uORGwMdvDxHFQPQXiA1ViQTekpFKb8QKP31zF4/edit?usp=sharing" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/1GyZHj3814UOAwv7xlvi49fNqvF7BcDRc/view?usp=sharing" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
