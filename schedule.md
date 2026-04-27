@@ -376,7 +376,7 @@ title: Schedule
             </div>
           </td>
         </tr>
-        <tr>
+        <!-- <tr>
           <td>Day 3</td>
           <td><span class="topic-link">Grouping Data &amp; Aggregate Functions</span></td>
           <td>
@@ -385,14 +385,14 @@ title: Schedule
               <a href="#">Recording</a>
             </div>
           </td>
-        </tr>
+        </tr> -->
       </tbody>
     </table>
   </details>
 
   <!-- WEEK 6 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 6 — SQL Table Relations &amp; Analysis</summary>
+    <summary class="week-summary">Week 6 — SQL and Pandas Analysis -- Databases and the Data Engineering Lifecycle</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -404,11 +404,12 @@ title: Schedule
       <tbody>
         <tr>
           <td>Day 1</td>
-          <td><span class="topic-link">SQL JOINs</span></td>
+          <td><span class="topic-link"> Data Analysis Using SQL and Pandas</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="https://docs.google.com/presentation/d/1ysE62ZcVEzBiY4HssggbnMkSrOyz_UzY/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/17UUlmQg96Y4NXf47QPjNBqfFbMNi3Del/view?usp=sharing" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -417,8 +418,9 @@ title: Schedule
           <td><span class="topic-link">SQL Subqueries</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -427,8 +429,9 @@ title: Schedule
           <td><span class="topic-link">Data Analysis with SQL &amp; Pandas</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -453,8 +456,9 @@ title: Schedule
           <td><span class="topic-link">Database Administration &amp; Design</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -463,8 +467,9 @@ title: Schedule
           <td><span class="topic-link">Data Engineering Lifecycle with SQL</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
@@ -473,8 +478,9 @@ title: Schedule
           <td><span class="topic-link">SQL Interview Practice &amp; Writing Queries</span></td>
           <td>
             <div class="materials">
-              <a href="#">Slides</a>
-              <a href="#">Recording</a>
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
