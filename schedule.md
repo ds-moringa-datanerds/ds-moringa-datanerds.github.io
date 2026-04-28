@@ -409,24 +409,24 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1ysE62ZcVEzBiY4HssggbnMkSrOyz_UzY/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
               <a href="https://drive.google.com/file/d/17UUlmQg96Y4NXf47QPjNBqfFbMNi3Del/view?usp=sharing" target="_blank">Notebook</a>
-              <a href="#" target="_blank">Recording</a>
+              <a href="https://drive.google.com/file/d/1T8EOQLkfrtEsqXueUmfNXi5t9PTsd06l/view?usp=sharing" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
         <tr>
           <td>Day 2</td>
-          <td><span class="topic-link">SQL Subqueries</span></td>
+          <td><span class="topic-link">Database Administration & Design</span></td>
           <td>
             <div class="materials">
-              <a href="#" target="_blank">Slides</a>
-              <a href="#" target="_blank">Notebook</a>
+              <a href="https://docs.google.com/presentation/d/1e577qUD20LnbcrtTVnplNqkLky6md2re/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/1vjxmS2pVl_boqx3PWY_565tvt_NJYSPw/view?usp=sharing" target="_blank">Notebook</a>
               <a href="#" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
         <tr>
           <td>Day 3</td>
-          <td><span class="topic-link">Data Analysis with SQL &amp; Pandas</span></td>
+          <td><span class="topic-link">The Data Engineering Lifecycle</span></td>
           <td>
             <div class="materials">
               <a href="#" target="_blank">Slides</a>
@@ -440,8 +440,8 @@ title: Schedule
   </details>
 
   <!-- WEEK 7 -->
-  <details class="week-dropdown">
-    <summary class="week-summary">Week 7 — Database Design &amp; Summative</summary>
+  <!-- <details class="week-dropdown"> -->
+    <!-- <summary class="week-summary">Week 7 — Database Design &amp; Summative</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -453,8 +453,8 @@ title: Schedule
       <tbody>
         <tr>
           <td>Day 1</td>
-          <td><span class="topic-link">Database Administration &amp; Design</span></td>
-          <td>
+          <td><span class="topic-link">Database Administration &amp; Design</span></td> -->
+          <!-- <td>
             <div class="materials">
               <a href="#" target="_blank">Slides</a>
               <a href="#" target="_blank">Notebook</a>
@@ -472,8 +472,8 @@ title: Schedule
               <a href="#" target="_blank">Recording</a>
             </div>
           </td>
-        </tr>
-        <tr>
+        </tr> -->
+        <!-- <tr>
           <td>Day 3</td>
           <td><span class="topic-link">SQL Interview Practice &amp; Writing Queries</span></td>
           <td>
@@ -486,7 +486,7 @@ title: Schedule
         </tr>
       </tbody>
     </table>
-  </details>
+  </details> -->
 
 </div>
 
