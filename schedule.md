@@ -420,7 +420,7 @@ title: Schedule
             <div class="materials">
               <a href="https://docs.google.com/presentation/d/1e577qUD20LnbcrtTVnplNqkLky6md2re/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
               <a href="https://drive.google.com/file/d/1vjxmS2pVl_boqx3PWY_565tvt_NJYSPw/view?usp=sharing" target="_blank">Notebook</a>
-              <a href="#" target="_blank">Recording</a>
+              <a href="https://drive.google.com/file/d/1zOcPvC42ZY3yhNrvhGfWigfNc-cglx7r/view?usp=sharing" target="_blank">Recording</a>
             </div>
           </td>
         </tr>
