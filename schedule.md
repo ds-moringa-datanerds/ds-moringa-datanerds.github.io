@@ -429,8 +429,8 @@ title: Schedule
           <td><span class="topic-link">The Data Engineering Lifecycle</span></td>
           <td>
             <div class="materials">
-              <a href="#" target="_blank">Slides</a>
-              <a href="#" target="_blank">Notebook</a>
+              <a href="https://docs.google.com/presentation/d/1ZKP8s_dNp0km3xbrHxsKI1iSmQaRsfPw/edit?usp=sharing&ouid=114196536710579440731&rtpof=true&sd=true" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file/d/1i-iqyL7lkuOyMIUr4jmmQaKI89syc5uu/view?usp=sharing" target="_blank">Notebook</a>
               <a href="#" target="_blank">Recording</a>
             </div>
           </td>
