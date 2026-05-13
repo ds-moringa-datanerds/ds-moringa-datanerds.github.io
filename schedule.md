@@ -500,8 +500,10 @@ title: Schedule
       <p class="module-focus">Focus: PySpark, SQL, Inferential statistics, Regression</p>
     </div>
   </div>
-  <div class="coming-soon-card">Content will be published as we approach this module.</div>
-</div>
+
+
+
+  
 
 <!-- MODULE 4 -->
 <div class="module-section">
