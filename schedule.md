@@ -500,8 +500,57 @@ title: Schedule
       <p class="module-focus">Focus: PySpark, SQL, Inferential statistics, Regression</p>
     </div>
   </div>
-  <div class="coming-soon-card">Content will be published as we approach this module.</div>
-</div>
+<!-- WEEK 1 -->
+  <details class="week-dropdown">
+    <summary class="week-summary">Week 1 — Intrododcution to Data Analysis & Vidualization with Dashboard</summary>
+    <table class="schedule-table">
+      <thead>
+        <tr>
+          <th>Day</th>
+          <th>Topic</th>
+          <th>Materials</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Day 1</td>
+          <td><span class="topic-link"> Intrododcution to Data Analysis & Vidualization with Tableau </span></td>
+          <td>
+            <div class="materials">
+              <a href="https://docs.google.com/e" target="_blank">Slides</a>
+              <a href="" target="_blank">Notebook</a>
+              <a href="https://drive.google.com/file/d/1TzuzG6B6zCgZyI-uGsNRu3msCUPIDoOf/view" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 2</td>
+          <td><span class="topic-link">Generative AI for Data Science</span></td>
+          <td>
+            <div class="materials">
+              <a href="https://docs.google.com/" target="_blank">Slides</a>
+              <a href="https://drive.google.com/file" target="_blank">Notebook</a>
+              <a href="https://drive.google.com" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 3</td>
+          <td><span class="topic-link">Ai workflow and Advanced Tableau Usage</span></td>
+          <td>
+            <div class="materials">
+              <a href="https://docs.google.com" target="_blank">Slides</a>
+              <a href="https://drive.google.com" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
+
+  
 
 <!-- MODULE 4 -->
 <div class="module-section">
