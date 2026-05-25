@@ -4,7 +4,7 @@ title: Schedule
 ---
 
 <h1>Course Schedule</h1>
-<p>The programme runs over 37 weeks across 6 modules. Each module builds on the previous one. Detailed topics are added as we progress — check Canvas for the most current assignment due dates.</p>
+<p>The programme runs over 37 weeks across 6 modules. Each module builds on the previous one. Detailed topics are added as we progress â check Canvas for the most current assignment due dates.</p>
 
 <div class="callout callout-info">
   <p><strong>All sessions are held via Google Meet.</strong></p>
@@ -78,7 +78,7 @@ title: Schedule
 
   <!-- WEEK 1 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 1 — Introduction to Programming</summary>
+    <summary class="week-summary">Week 1 â Introduction to Programming</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -121,7 +121,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 4–5</td>
+          <td>Day 4â5</td>
           <td><span class="topic-link">For Loops & Functions</span></td>
           <td>
             <div class="materials">
@@ -137,7 +137,7 @@ title: Schedule
 
   <!-- WEEK 2 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 2 — Data Structures & Assessment</summary>
+    <summary class="week-summary">Week 2 â Data Structures & Assessment</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -148,7 +148,7 @@ title: Schedule
       </thead>
       <tbody>
         <tr>
-          <td>Day 6–7</td>
+          <td>Day 6â7</td>
           <td><span class="topic-link">Tuples & Lists</span></td>
           <td>
             <div class="materials">
@@ -159,7 +159,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 8–9</td>
+          <td>Day 8â9</td>
           <td><span class="topic-link">Dictionaries & Strings</span></td>
           <td>
             <div class="materials">
@@ -170,7 +170,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 10–11</td>
+          <td>Day 10â11</td>
           <td><span class="topic-link">Libraries & Functions</span></td>
           <td>
             <div class="materials">
@@ -181,7 +181,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 10–11 Part 2</td>
+          <td>Day 10â11 Part 2</td>
           <td><span class="topic-link">Regex</span></td>
           <td>
             <div class="materials">
@@ -192,7 +192,7 @@ title: Schedule
           </td>
         </tr>
         <tr>
-          <td>Day 12–13</td>
+          <td>Day 12â13</td>
           <td><strong>Summative Assessment</strong></td>
           <td>
             <div class="materials">
@@ -221,7 +221,7 @@ title: Schedule
 
   <!-- WEEK 3 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 3 — What is Data Science?</summary>
+    <summary class="week-summary">Week 3 â What is Data Science?</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -258,7 +258,7 @@ title: Schedule
 
   <!-- WEEK 4 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 4 — Data Analysis with Python</summary>
+    <summary class="week-summary">Week 4 â Data Analysis with Python</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -333,7 +333,7 @@ title: Schedule
 
   <!-- WEEK 5 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 5 — Getting Started with SQL</summary>
+    <summary class="week-summary">Week 5 â Getting Started with SQL</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -392,7 +392,7 @@ title: Schedule
 
   <!-- WEEK 6 -->
   <details class="week-dropdown">
-    <summary class="week-summary">Week 6 — SQL and Pandas Analysis -- Databases and the Data Engineering Lifecycle</summary>
+    <summary class="week-summary">Week 6 â SQL and Pandas Analysis -- Databases and the Data Engineering Lifecycle</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -441,7 +441,7 @@ title: Schedule
 
   <!-- WEEK 7 -->
   <!-- <details class="week-dropdown"> -->
-    <!-- <summary class="week-summary">Week 7 — Database Design &amp; Summative</summary>
+    <!-- <summary class="week-summary">Week 7 â Database Design &amp; Summative</summary>
     <table class="schedule-table">
       <thead>
         <tr>
@@ -496,11 +496,179 @@ title: Schedule
   <div class="module-section-header">
     <div class="module-number-badge">3</div>
     <div>
-      <h2>Foundations — Cloud, Stats & Regression</h2>
-      <p class="module-focus">Focus: PySpark, SQL, Inferential statistics, Regression</p>
+      <h2>Foundations â Cloud, Stats &amp; Regression</h2>
+      <p class="module-focus">Focus: Tableau, Generative AI, Statistical Inference, Regression, PySpark</p>
     </div>
   </div>
-  <div class="coming-soon-card">Content will be published as we approach this module.</div>
+
+  <h3 class="module-subtopic">Data Visualization &amp; Generative AI</h3>
+
+  <!-- WEEK 7 -->
+  <details class="week-dropdown">
+    <summary class="week-summary">Week 7 â Introduction to Dashboards &amp; AI-Augmented Workflows</summary>
+    <table class="schedule-table">
+      <thead>
+        <tr><th>Day</th><th>Topic</th><th>Materials</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Day 1</td>
+          <td><span class="topic-link">Introduction to Dashboards &amp; Tableau</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 2</td>
+          <td><span class="topic-link">Generative AI for Data Science</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 3</td>
+          <td><span class="topic-link">AI Workflow &amp; Advanced Tableau Usage</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
+  <!-- WEEK 8 -->
+  <details class="week-dropdown">
+    <summary class="week-summary">Week 8 â Probability &amp; Statistical Inference</summary>
+    <table class="schedule-table">
+      <thead>
+        <tr><th>Day</th><th>Topic</th><th>Materials</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Day 1</td>
+          <td><span class="topic-link">Probability and Distributions</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 2</td>
+          <td><span class="topic-link">Statistical Inference</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
+  <h3 class="module-subtopic">Statistical Inference &amp; Regression</h3>
+
+  <!-- WEEK 9 -->
+  <details class="week-dropdown">
+    <summary class="week-summary">Week 9 â A/B Testing &amp; Statistical Inference</summary>
+    <table class="schedule-table">
+      <thead>
+        <tr><th>Day</th><th>Topic</th><th>Materials</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Day 1</td>
+          <td><span class="topic-link">A/B Testing â Digital Experimentation</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 2</td>
+          <td><span class="topic-link">Statistical Inference for Proportions</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 3</td>
+          <td><span class="topic-link">Statistical Inference for Means</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
+  <!-- WEEK 10 -->
+  <details class="week-dropdown">
+    <summary class="week-summary">Week 10 â Categorical Data, Parametric Testing &amp; Regression</summary>
+    <table class="schedule-table">
+      <thead>
+        <tr><th>Day</th><th>Topic</th><th>Materials</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Day 1</td>
+          <td><span class="topic-link">Statistical Inference for Categorical Data &amp; Parametric vs. Non-Parametric</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 2</td>
+          <td><strong>Summative Assessment</strong></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Brief</a>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>Day 3</td>
+          <td><span class="topic-link">Introduction to Linear Regression Models</span></td>
+          <td>
+            <div class="materials">
+              <a href="#" target="_blank">Slides</a>
+              <a href="#" target="_blank">Notebook</a>
+              <a href="#" target="_blank">Recording</a>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+
 </div>
 
 <!-- MODULE 4 -->
